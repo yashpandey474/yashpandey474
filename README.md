@@ -4,6 +4,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/yash-pandey-493427202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 </p>
+
+
+
  <h3 align = 'left'>Languages and Tools:</h3>
   <p align = 'left'>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -41,6 +44,9 @@
     </a>
   </p>
   
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpandey474&label=Profile%20views&color=0e75b6&style=flat" alt="yashpandey474" /> 
+ </p>
+ 
 <p align="center">
   <a href="https://github.com/yashpandey474">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashpandey474&theme=radical&border=7F3FBF&background=0D1117" alt="Yash Pandey's GitHub streak"/>
