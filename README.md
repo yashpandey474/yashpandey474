@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+**I'm Yash** 😄
+
+💻 **Full-Stack Developer | ML Enthusiast | Deep Learning & NLP Practitioner**
+
+- 🔧 Skilled in **Full-Stack Web Development**, **Machine Learning**, **NLP**, and **Deep Learning**.
+- 🚀 Currently exploring **Large Language Models (LLMs)** and **App Development** using **Flutter**.
+  
+Feel free to connect or check out my projects below! 🌟
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yash-pandey-493427202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
